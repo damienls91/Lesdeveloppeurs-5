@@ -16,6 +16,6 @@
             </ul>
         </nav>
     </header>
-    <p>Je suis [ton nom], étudiant en cybersécurité. Voici mon site !</p>
+    <p>Je suis [ton nom], étudiant. Voici mon site !</p>
 </body>
 </html>
