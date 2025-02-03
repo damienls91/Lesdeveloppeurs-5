@@ -1,4 +1,4 @@
-<!---<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
@@ -19,8 +19,3 @@
     <p>Je suis [ton nom], étudiant en cybersécurité. Voici mon site !</p>
 </body>
 </html>
-
-
-Lesdeveloppeurs-5/Lesdeveloppeurs-5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
